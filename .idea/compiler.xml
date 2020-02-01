@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dsp-entity" />
+        <module name="dsp-service" />
+        <module name="dsp-util" />
+        <module name="dsp-mapper" />
+        <module name="dsp-web" />
+        <module name="dsp-controller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dsp-controller" target="1.8" />
+      <module name="dsp-entity" target="1.8" />
+      <module name="dsp-mapper" target="1.8" />
+      <module name="dsp-parent" target="1.8" />
+      <module name="dsp-service" target="1.8" />
+      <module name="dsp-util" target="1.8" />
+      <module name="dsp-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dsp-controller" options="-parameters" />
+      <module name="dsp-entity" options="-parameters" />
+      <module name="dsp-mapper" options="-parameters" />
+      <module name="dsp-parent" options="" />
+      <module name="dsp-service" options="-parameters" />
+      <module name="dsp-web" options="-parameters" />
+    </option>
+  </component>
+</project>

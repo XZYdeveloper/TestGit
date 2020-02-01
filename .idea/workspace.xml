@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55dbb717-00f2-49d1-abaf-a8acf0a682f8" name="Default Changelist" comment="初步构建的项目总结构完善版（已验证）" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Driver/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1WkzDxAR3sOdScEHc5K0BfJICms" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.util" />
+      <recent name="com.mapper" />
+      <recent name="com.entity" />
+      <recent name="com.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\IDEA Projects\dsp-parent\dsp-controller\src\main\resources" />
+      <recent name="D:\Projects\Java\IDEA Projects\dsp-parent\dsp-entity\src\main\resources" />
+      <recent name="D:\Projects\Java\IDEA Projects\dsp-parent\dsp-mapper\src\main\resources" />
+      <recent name="D:\Projects\Java\IDEA Projects\dsp-parent\dsp-service\src\main\resources" />
+      <recent name="D:\Projects\Java\IDEA Projects\dsp-parent\dsp-util\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DspWebApplication">
+    <configuration name="DspControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dsp-controller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xzy.dspcontroller.DspControllerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DspEntityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dsp-entity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xzy.dspentity.DspEntityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DspMapperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dsp-mapper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xzy.dspmapper.DspMapperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DspParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dsp-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xzy.dspparent.DspParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DspServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dsp-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xzy.dspservice.DspServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DspWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dsp-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xzy.dspweb.DspWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55dbb717-00f2-49d1-abaf-a8acf0a682f8" name="Default Changelist" comment="" />
+      <created>1579708264302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579708264302</updated>
+      <workItem from="1579708269736" duration="3378000" />
+      <workItem from="1580270478655" duration="43000" />
+      <workItem from="1580294357557" duration="418000" />
+      <workItem from="1580444684811" duration="2041000" />
+      <workItem from="1580462412105" duration="5024000" />
+      <workItem from="1580519063353" duration="4737000" />
+      <workItem from="1580524768454" duration="8600000" />
+      <workItem from="1580558532857" duration="71000" />
+      <workItem from="1580558641885" duration="71000" />
+    </task>
+    <task id="LOCAL-00001" summary="初步构建的项目总结构（已验证）">
+      <created>1579711432333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579711432333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初步构建的项目总结构完善版（已验证）">
+      <created>1580466132018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580466132018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初步构建的项目总结构（已验证）" />
+    <MESSAGE value="初步构建的项目总结构完善版（已验证）" />
+    <option name="LAST_COMMIT_MESSAGE" value="初步构建的项目总结构完善版（已验证）" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1580521818898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1580521818898" />
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1580540220417">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1580540220417" />
+    <state x="245" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580530852680">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="245" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1580530852680" />
+    <state x="357" y="220" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579709137897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="220" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1579709137897" />
+    <state x="145" y="0" key="CommitChangelistDialog2" timestamp="1580541025547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="145" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580541025547" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1580558703867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580558703867" />
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.0.left" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.0.right" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.1.bottom" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.1.center" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.1.left" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state width="1237" height="131" key="GridCell.Tab.1.right" timestamp="1580558712051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580558712051" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1580525058641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580525058641" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1580540915098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580540915098" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1580524768137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580524768137" />
+    <state x="17" y="73" width="1224" height="607" key="new project wizard" timestamp="1580446503035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="17" y="73" width="1224" height="607" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580446503035" />
+  </component>
+</project>

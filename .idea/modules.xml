@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dsp-controller/dsp-controller.iml" filepath="$PROJECT_DIR$/dsp-controller/dsp-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsp-entity/dsp-entity.iml" filepath="$PROJECT_DIR$/dsp-entity/dsp-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsp-mapper/dsp-mapper.iml" filepath="$PROJECT_DIR$/dsp-mapper/dsp-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsp-parent.iml" filepath="$PROJECT_DIR$/dsp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsp-service/dsp-service.iml" filepath="$PROJECT_DIR$/dsp-service/dsp-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsp-util/dsp-util.iml" filepath="$PROJECT_DIR$/dsp-util/dsp-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsp-web/dsp-web.iml" filepath="$PROJECT_DIR$/dsp-web/dsp-web.iml" />
+    </modules>
+  </component>
+</project>
